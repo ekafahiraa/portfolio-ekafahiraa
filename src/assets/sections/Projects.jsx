@@ -71,14 +71,14 @@ export default function Projects() {
       demo: "https://streamflixx.vercel.app/",
       image: streamflix,
     },
-    {
-      title: "OVO Review Aspects and Sentiment Predictions",
-      description:
-        "A responsive flight booking platform with real-time flight search, booking summary, and total price calculation including taxes and passengers.",
-      tech: ["HTML", "CSS", "Python", "JavaScript", "Flask"],
-      demo: "https://biflight.vercel.app/",
-      image: biflight,
-    },
+    // {
+    //   title: "OVO Review Aspects and Sentiment Predictions",
+    //   description:
+    //     "A responsive flight booking platform with real-time flight search, booking summary, and total price calculation including taxes and passengers.",
+    //   tech: ["HTML", "CSS", "Python", "JavaScript", "Flask"],
+    //   demo: "https://biflight.vercel.app/",
+    //   image: biflight,
+    // },
   ];
 
   const [currentSlide, setCurrentSlide] = useState(0);
