@@ -45,7 +45,7 @@ export default function About() {
         >
           <p>
             I’m a fresh graduate with a Bachelor’s degree in Information Systems
-            at Universitas Pembangunan Nasional Veteran Jawa Timur. I am a
+            at Universitas Pembangunan Nasional "Veteran" Jawa Timur. I am a
             passionate and detail-oriented individual with strong communication
             skills and the ability to work effectively in a team. During my
             studies, I actively participated in student organizations, where I
@@ -56,7 +56,7 @@ export default function About() {
             My undergraduate thesis focused on aspect-based sentiment analysis
             on user perceptions of digital wallet applications using machine
             learning algorithms. My main interests lie in Front End Web
-            Development, Data Analysis, and Machine Learning. I enjoy building
+            Development, Data Analytics, and Machine Learning. I enjoy building
             responsive and user-friendly web applications as well as working
             with data to uncover insights and build predictive models. This
             portfolio showcases a selection of my projects and skills in both

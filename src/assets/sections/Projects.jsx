@@ -9,22 +9,6 @@ import streamflix from "../images/streamflix.png";
 export default function Projects() {
   const projects = [
     {
-      title: "BiFlight – Flight Booking Website",
-      description:
-        "A responsive flight booking platform with real-time flight search, booking summary, and total price calculation including taxes and passengers.",
-      tech: [
-        "HTML",
-        "CSS",
-        "Tailwind CSS",
-        "JavaScript",
-        "ReactJS",
-        "Redux",
-        "API Integration",
-      ],
-      demo: "https://biflight.vercel.app/",
-      image: biflight,
-    },
-    {
       title: "Applicant Website – Research & Internship Requests",
       description:
         "Website for applicants to request recommendation letters for research or internship purposes with form validation and document upload.",
@@ -54,6 +38,22 @@ export default function Projects() {
       ],
       demo: "https://bakesbangpol-admin-pelayanan-rekomendasi-penelitian.vercel.app/",
       image: admin,
+    },
+    {
+      title: "BiFlight – Flight Booking Website",
+      description:
+        "A responsive flight booking platform with real-time flight search, booking summary, and total price calculation including taxes and passengers.",
+      tech: [
+        "HTML",
+        "CSS",
+        "Tailwind CSS",
+        "JavaScript",
+        "ReactJS",
+        "Redux",
+        "API Integration",
+      ],
+      demo: "https://biflight.vercel.app/",
+      image: biflight,
     },
     {
       title: "Streamflix – Movie Trailer Website",

@@ -28,10 +28,7 @@ export default function Hero() {
 
         <p className="text-sm sm:text-base md:text-lg lg:text-xl text-[#2E2E2E] leading-relaxed max-w-md">
           I’m interested in{" "}
-          <span className="text-[#C75B7A] font-medium">
-            Data Analysis, Data Science
-          </span>{" "}
-          and{" "}
+          <span className="text-[#C75B7A] font-medium">Data Analytics</span> and{" "}
           <span className="text-[#C75B7A] font-medium">
             Front End Development
           </span>

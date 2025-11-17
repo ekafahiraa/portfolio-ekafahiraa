@@ -163,18 +163,18 @@ export default function Education() {
       gpa: "GPA 3.86/4.00",
     },
     {
-      logo: kariermulogo,
-      title: "Karier.mu (PT Semesta Integrasi Digital)",
-      major: "Data Analyst",
-      year: "2023",
-      gpa: "GPA 92/100",
-    },
-    {
       logo: binarlogo,
       title: "Binar Academy (PT Lentera Bangsa Benderang)",
       major: "Front End JavaScript",
       year: "2024",
       gpa: "GPA 92.44/100",
+    },
+    {
+      logo: kariermulogo,
+      title: "Karier.mu (PT Semesta Integrasi Digital)",
+      major: "Data Analyst",
+      year: "2023",
+      gpa: "GPA 92/100",
     },
   ];
 

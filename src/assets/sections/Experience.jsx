@@ -220,14 +220,13 @@ export default function Experience() {
       logo: bakesbangpolLogo,
       title:
         "Badan Kesatuan Bangsa dan Politik (Bakesbangpol) Provinsi Jawa Timur",
-      role: "Website Developer Intern",
+      role: "Frontend Developer Intern",
       period: "July – September 2024 | Surabaya, Indonesia",
       description: [
-        "Contributed to designing and developing the 'Permohonan Rekomendasi Penelitian dan Magang' website to facilitate online submissions.",
-        "Developed responsive and user-friendly interfaces using HTML, CSS, Tailwind CSS, JavaScript, and ReactJS.",
-        "Integrated dynamic forms with validation and document upload features.",
-        "Built the admin dashboard for managing and processing submissions.",
-        "Collaborated closely with the backend team for API integration and end-to-end workflows.",
+        "Developed a front-end web platform for research and internship application submissions using JavaScript, ReactJS, Redux, Tailwind CSS, and RESTful APIs with responsive interface implementation.",
+        "Built an admin front-end website featuring authentication and monitoring dashboards to manage and update applicant submission statuses, including deployment via Vercel.",
+        "Collaborated with backend developers to integrate API and database endpoints, ensuring accurate data flow and state management across features.",
+        "Improved team productivity by 30% within the first week through effective task coordination and prioritization.",
       ],
     },
     {
